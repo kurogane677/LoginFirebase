@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715483964773",
+    "firebase_url": "https://reactnativecrud-d0eca-default-rtdb.firebaseio.com",
+    "project_id": "reactnativecrud-d0eca",
+    "storage_bucket": "reactnativecrud-d0eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715483964773:android:4d59fcea7ef87ad91a6d8c",
+        "android_client_info": {
+          "package_name": "com.belajarnavigasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715483964773-luim5mgeki15403o5m7h7f5ii5v7194c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqXCC44iilZVSIVV-hW_WmgemwE1eHX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715483964773-luim5mgeki15403o5m7h7f5ii5v7194c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
